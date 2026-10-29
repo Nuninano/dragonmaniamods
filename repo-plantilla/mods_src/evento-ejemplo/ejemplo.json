@@ -1,0 +1,1 @@
+{"nota": "Archivo de ejemplo. Todo lo que pongas en server/<ruta> se sirve en http://127.0.0.1:20001/<ruta> cuando el juego lo pida."}
